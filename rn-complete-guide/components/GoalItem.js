@@ -2,11 +2,11 @@ import React from "react";
 import { View, Text, StyleSheet } from "react-native";
 
 function GoalItem(props) {
-  return (
+  //return (
     // <View style={styels.listItem}>
     //   <Text>{}</Text>
     // </View>
-  );
+  //);
 }
 
 const styles = StyleSheet.create({

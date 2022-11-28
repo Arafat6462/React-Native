@@ -74,7 +74,7 @@ const styels = StyleSheet.create({
   listItem: {
     padding: 10,
     marginVertical: 10,
-    backgroundColor: "#bbb",
+    backgroundColor: "#aaa",
     borderColor: "balck",
     borderWidth: 1,
   },
